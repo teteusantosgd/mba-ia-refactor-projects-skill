@@ -1,6 +1,9 @@
 .env
 node_modules/
 
+# macOS
+.DS_Store
+
 # Python
 __pycache__/
 *.pyc
@@ -10,3 +13,6 @@ venv/
 # SQLite
 *.db
 instance/
+
+*/code-style-guide.md
+code-style-guide.md
